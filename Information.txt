@@ -1,0 +1,4 @@
+ensure annotation is to make sure that whatever is the type of fucntions parameters it should accept the actual type without accepting
+any string
+
+box: box exceptions is there to handle the exceptions in better way
